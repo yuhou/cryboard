@@ -1,0 +1,13 @@
+name: cryboard
+version: 0.1.0
+
+authors:
+  - billy.hou <billy.hou@suyun360.com>
+
+targets:
+  cryboard:
+    main: src/cryboard.cr
+
+crystal: 0.23.1
+
+license: MIT
