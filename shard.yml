@@ -2,7 +2,12 @@ name: cryboard
 version: 0.1.0
 
 authors:
-  - billy.hou <billy.hou@suyun360.com>
+  - billy.hou <yuhou.dev@gmail.com>
+
+dependencies:
+    kemal:
+        github: kemalcr/kemal
+        branch: master
 
 targets:
   cryboard:
